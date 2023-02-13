@@ -1,0 +1,7 @@
+//SPLIT OPERATOR IS USED FOR CLONING
+
+//IN OPERATOR
+
+var objData = {
+    
+}

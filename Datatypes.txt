@@ -1,0 +1,23 @@
+// DATATYPES
+
+/*
+Datatypes are of two types:-
+1) Primitive
+2) Non-primitive
+*/
+
+//PRIMITIVE DATATYPES
+/* 
+1) Not mutable.
+2) Data stored in Stack
+3) Data stored in different address
+Example:- Number, String, Boolean, NULL etc
+*/
+
+//NON-PRIMITIVE DATATYPES
+/*
+1) Reference / address datatype
+2) Data stored in Heap memory
+3) Changes made at address will reflect in value
+Example:- Object, Array, Function.
+*/
